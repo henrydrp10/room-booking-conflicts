@@ -1,0 +1,4 @@
+src/RoomBookingConflicts/bin
+src/RoomBookingConflicts/obj
+tests/RoomBookingConflicts.Tests/bin
+tests/RoomBookingConflicts.Tests/obj
